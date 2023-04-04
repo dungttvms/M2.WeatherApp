@@ -1,0 +1,44 @@
+{
+ "coord":{
+   "lon":108,
+   "lat":13.9833},
+
+ "weather":[{
+   "id":802,
+   "main":"Clouds",
+   "description":"scattered clouds",
+   "icon":"03n"}],
+
+ "base":"stations",
+
+ "main":{
+   "temp":26.17,
+   "feels_like":26.17,
+   "temp_min":26.17,
+   "temp_max":26.17,
+   "pressure":1007,
+   "humidity":59,
+   "sea_level":1007,
+   "grnd_level":924},
+
+ "visibility":10000,
+
+ "wind":{
+       "speed":1.48,
+       "deg":333,
+       "gust":3.67},
+
+ "clouds":{"all":33},
+
+ "dt":1680608906,
+
+ "sys":{
+    "country":"VN",
+    "sunrise":1680561727,
+    "sunset":1680605994},
+
+ "timezone":25200,
+ "id":1569684,
+ "name":"Pleiku",
+ "cod":200
+}

@@ -1,0 +1,48 @@
+form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #ccc;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2196F3;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0D47A1;
+  }
+
+  
+  .Information_error {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .Information {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  .Information p {
+    margin: 10px;
+  }
+  
